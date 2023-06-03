@@ -1,5 +1,7 @@
-# Reagan-Ondiek
-#This my Professional Portofolio as an entry level Cybersecurity Analyst
-#My name is Reagan Ondiek .Iam a senior Cybesecurity Graduate Student at Grand Valley State Universitywith two semsetsers away from Graduation.
-#I'm proud to be one of the outstanding students with an excellent GPA of 3.9.
-#I'm currently working as an IT Support at GVSU IT Services department where i assist clients navigate complex Cybersecurity and IT related challenges such as software and hardware malfunctions,developing threat detections and alerts to avoid malicous activities through incident response ,incident simulation and penetration testing among others.
+# Professional Statement
+Iam an aspiring entry level professional Cybesrsecurity Analyst with vast interest in helping an organization navigate complex CYbersecurity challenges such as developing of threat and alert detections to prevent malicious activities through Incident response,simulation and penetration testing.
+I have experience in IT Support including software and hardware malfuncrion troubleshooting and use of Data mining tools such as python and IBM Spss for cybersecurity purposes.
+My excitment and major areas of interest include helping users and organizations monitor network traffics through tools such as wiresharkto help identify vulnerabilities within the system and come up with risk mitigation measures and commitment to ensuring organization's data is safe. 
+Iam a dedicated and detail oriented indivdual bringing onboard excellent decsion making skills ,leadership skills and passion about duties assigned.
+I have an outsatnding observation and listening skills with a disciplined work ethic.
+
